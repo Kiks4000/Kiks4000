@@ -2,7 +2,7 @@
 - 👀 I’m interested in manga, japan, anime, code, tech
 - 🌱 I’m currently learning REACT TYPESCRIPT, Node.js, MongoDB..
 - 💞️ I’m looking to collaborate on REACT TYPESCRIPT project
-- 📫 How to reach me on Twitter : https://twitter.com/KiksOnTwitch
+- 📫 How to reach me on Twitter : https://twitter.com/Kiks_xxx
 
 <!---
 Kiks4000/Kiks4000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
